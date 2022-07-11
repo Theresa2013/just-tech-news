@@ -16,11 +16,11 @@ A cloned application of the Hacker News website with a minimalist front-end and 
 
 ## Website
 
-https://theresa2013.github.io/work-day-scheduler/
+https://theresa2013.github.io/just-tech-news/
 
 ## GitHub
 
-https://github.com/Theresa2013/work-day-scheduler.git
+https://github.com/Theresa2013/just-tech-news.git
 
 ## Contribution
 
